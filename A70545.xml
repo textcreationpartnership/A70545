@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The two great questions whereon in this present juncture of affairs, the peace &amp; safety of His Maiestie's person, and of all His Protestant subjects in his three kingdoms next under God depend stated, debated, and humbly submitted to the consideration of Supreme Authority, as resolved by Christ.</title>
+            <author>Lawrence, William, 1613 or 14-1681 or 2.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70545</idno>
+            <idno type="STC">Wing L693</idno>
+            <idno type="STC">ESTC R9</idno>
+            <idno type="EEBO-CITATION">12877218</idno>
+            <idno type="OCLC">ocm 12877218</idno>
+            <idno type="VID">94869</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94869)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 462:1 or 718:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The two great questions whereon in this present juncture of affairs, the peace &amp; safety of His Maiestie's person, and of all His Protestant subjects in his three kingdoms next under God depend stated, debated, and humbly submitted to the consideration of Supreme Authority, as resolved by Christ.</title>
+                  <author>Lawrence, William, 1613 or 14-1681 or 2.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to William Lawrence.</note>
+                  <note>This item appears at reel 462:1 as Wing L693, and at reel 718:16 as Wing L97A (number cancelled in Wing 2nd ed.).</note>
+                  <note>Errata: p. 14.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94869:1"/>
+            <p>THE <hi>Two great Queſtions,</hi> WHEREON In this preſent Juncture of AFFAIRS, THE PEACE &amp; SAFETY OF HIS Maieſtie's Perſon;</p>
+            <p>And of all HIS <hi>Proteſtant Subjects</hi> In His Three KINGDOMS next under <hi>GOD</hi> Depend: Stated, Debated, and Humbly Submitted to the Conſideration of Supreme Authority, As reſolved by CHRIST.</p>
+            <q>Doth our Law judge any man before it hear him? <bibl>Jo. 7. 51.</bibl>
+            </q>
+            <q>I ſay unto you, Love your Enemies, <bibl>Matth. 44.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, 1681.</p>
+            <pb facs="tcp:94869:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94869:2"/>
+            <head>The Two Great QUESTIONS whereon in this preſent Juncture of Affairs, the Peace and Safety of His Majeſtie's Perſon, and all his Proteſtant Subjects in his Three King<g ref="char:EOLhyphen"/>doms, next under God depend; Stated, De<g ref="char:EOLhyphen"/>bated, and humbly Submitted to the Conſi<g ref="char:EOLhyphen"/>deration of Supreme Authority.</head>
+            <div n="1" type="question">
+               <head>QUEST. 1.</head>
+               <p>
+                  <hi>WHether an Act of Excluſion either of the Li<g ref="char:EOLhyphen"/>neal or Collateral Heir to the Crown, ought to be paſs'd without Lawful Summons and Hear<g ref="char:EOLhyphen"/>ing?</hi> Neg.</p>
+               <div type="part">
+                  <head>Objections againſt the Negative anſwered.</head>
+                  <p>Obj. 1. <hi>The Collateral Heir to the Crown</hi> Fugam fecit, <hi>therefore he ought to be Excluded without Summons or Hearing.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. The known Law of God, Nations, Nature, and Scripture is contrary; <hi>Joh.</hi> 7. 51. <hi>Doth our Law Judge any man before it hear him?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 2. The known Law of the Land is contrary, both Common Law and Statute; and particularly the Statutes of <hi>Magna Charta, and the Petition of Right.</hi>
+                  </p>
+                  <p>
+                     <pb n="2" facs="tcp:94869:3"/>
+                     <hi>Anſw.</hi> 3. There is no Malefactor, yea Felon, ought to be found guilty of a <hi>Fugam fecit,</hi> nor forfeit any thing for the ſame, untill he is brought to the Bar, Ar<g ref="char:EOLhyphen"/>raigned, put to Tryal, and found Innocent of the Fe<g ref="char:EOLhyphen"/>lony.</p>
+                  <p>Object. 2. <hi>To Attaint or Condemn of any Crime by Par<g ref="char:EOLhyphen"/>liament without Summons and Hearing, may perhaps be un<g ref="char:EOLhyphen"/>lawful. But it doth not follow therefore, That EXCLU<g ref="char:EOLhyphen"/>SION of RIGHT without Summons and Hearing, is unlawful.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. To Exclude from <hi>Right,</hi> without Summons and Hearing, is as contrary to the Law of God, Nations, Nature and Scripture, as to Condemn of Crime.</p>
+                  <p>
+                     <hi>Anſw.</hi> 2. 'Tis as contrary to the Law of the Land both Common and Statute, and particularly, the Sta<g ref="char:EOLhyphen"/>tutes of <hi>MAGNA CHARTA, AND PETITION OF RIGHT.</hi>
+                  </p>
+                  <p>Obj. 3. The Preſs is open to the Papiſt, and the Prote<g ref="char:EOLhyphen"/>ſtant afraid to Print; whereby the Proteſtant Religion and Liberty is Condemned without Hearing, and it will be im<g ref="char:EOLhyphen"/>poſſible to Extirpate Popery and Slavery, without Free Liberty of Printing to the Proteſtant; neither do the Kingdoms of Darkneſs either of Pope or Turk build them<g ref="char:EOLhyphen"/>ſelves on any deeper Fundamental, than that the firſt per<g ref="char:EOLhyphen"/>mits no Printing but by Epiſcopal Licence; and the Other permits no Printing at all: neither can any Humane Rea<g ref="char:EOLhyphen"/>ſon be given Why the Doctrine of <hi>Wickliff,</hi> which compre<g ref="char:EOLhyphen"/>hended the whole Proteſtant Religion in far greater Purity than <hi>Luther</hi> or <hi>Calvin</hi> have done ſince, and was far more terrible to the Church of <hi>Rome</hi> than either of theirs; yet gave them not ſo great an overthrow as the two latter have done; But only this, That <hi>Wickliff</hi> lived in a Time before
+<pb n="3" facs="tcp:94869:3"/> the Invention of Printing was found; And <hi>Luther</hi> and <hi>Calvin</hi> ſince, From which Interdiction of the Preſs by the Papiſt to the Proteſtant, whereby the Proteſtant Religion and Liberty, are condemn'd without Hearing, is objected this Concluſion. That it is a juſt Retaliation to Condemn and Exclude the pretended Popiſh Religion and Liberty without Hearing, as they have done the Proteſtant.</p>
+                  <p>Anſw. <hi>It is more juſt and eaſie for the Parliament to puniſh ſuch Perſons as have contrary to the Law againſt</hi> Monopolies, Magna Charta, <hi>and</hi> Petition of Right <hi>Impri<g ref="char:EOLhyphen"/>ſoned, Fined, or Pillory'd the Subject for Uſing the Lawful Trade of Printing without their Licences, by Example of Puniſhment on which Monopoliſts, The Proteſtant will be reſtored to his Native Liberty of de<g ref="char:EOLhyphen"/>fending his Religion in Print.</hi>
+                  </p>
+                  <p>Obj. 4. The Publick Offices of Temporal and Spiritual Judges, Magiſtrates and Sheriffs, are believed great part of them to have been placed contrary to the Acts of Parlia<g ref="char:EOLhyphen"/>ment, on the Recommendations of Papiſts or their Truſtees; It will be therefore impoſſible to obtain any ordinary Legal Proceedings againſt the Collateral Heir from ſuch Judges who are his Creatures. The Honourable Parliament there<g ref="char:EOLhyphen"/>fore have been neceſſitated to have recourſe to the Extra<g ref="char:EOLhyphen"/>ordinary way of endeavouring an Act of Excluſion, without Summons or Hearing.</p>
+                  <p>Anſw. <hi>The Cauſe of Succeſſion is not now depend<g ref="char:EOLhyphen"/>ing before Inferior Judges, Temporal or Spiritual; but before the Supreme Court of the King and Parliament; And the time is a time of Peace, and not of War, the ordinary proceedings therefore of Peace ought now to be uſed; which are Summons and Hearing. And not the Extraordinary without them, as in a time of War.</hi>
+                  </p>
+                  <pb n="4" facs="tcp:94869:4"/>
+                  <p>Obj. 5. <hi>It will be too late to delay, till a War or Rebellion break out and ſurprize the Proteſtant with a Maſſacre, ſee<g ref="char:EOLhyphen"/>ing Perſons recommended by Papiſts have already contrary to all Acts of Parliament, ſeized by themſelves or Agents, on the Military as well as Civil and Eccleſiaſtical Offices and Power, and on the Commands of the Forces by Land and Sea, with the Publick Magazines of Arms and Treaſure, intended by the Parliament to be given and received for the Defence of the Proteſtant.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> It is leſs delay, and more juſtly and eaſily done by His Majeſtie's Aſſent to Summon all ſuch Prin<g ref="char:EOLhyphen"/>cipal Perſons, having ſo offended againſt the Acts of Parliament, as His Majeſty and his High Court of Par<g ref="char:EOLhyphen"/>liament ſhall think fit, to appear in Perſon before His Majeſty and Parliament, to anſwer to ſuch things as ſhall be objected againſt them; on whoſe appearance, none doubts His Majeſty and his Parliaments Power, by ſuch ways as to their Wiſdom and Juſtice ſeem fit, to prevent their acting in any way of Rebellion and Maſſa<g ref="char:EOLhyphen"/>cre againſt the ſafety of His Majeſty, and of his Prote<g ref="char:EOLhyphen"/>ſtant Subjects; or in caſe of their Refuſal, Contempt, or Neglect to appear, to take ſuch further courſe as ſhall be by God's aſſiſtance moſt juſt, and conducible to the ſame ends.</p>
+                  <p>Obj. 6. <hi>The Declaring of the Lineal Heir to be the Pro<g ref="char:EOLhyphen"/>teſtant Succeſſor, is an Excluſion of the Collateral Heir from Succeſſion. But the declaring of the Lineal Heir to be the Proteſtant Succeſſor, may be without Summons of the Colla<g ref="char:EOLhyphen"/>teral Heir; Therefore there may be an Excluſion of the Collateral Heir without Summons. The</hi> Major <hi>cannot be denyed, and the</hi> Minor <hi>is plain; for after the Death of Queen</hi> Elizabeth, <hi>there were no leſs than Sixteen Preten<g ref="char:EOLhyphen"/>ders to the Succeſſion of the Crown, who diſcover'd them<g ref="char:EOLhyphen"/>ſelves, and more there might be undiſcovered; whereby if a</hi>
+                     <pb n="5" facs="tcp:94869:4"/>
+                     <hi>particular Summons were in ſuch caſe neceſſary, the Preten<g ref="char:EOLhyphen"/>ders would be very difficult, and many times impoſſible to be found and Summon'd: And fraudulently to evade ſuch Summons they might convey themſelves into parts beyond Sea, or places concealed or dangerous to Summon; or Sum<g ref="char:EOLhyphen"/>moners not to be got who would dare to Summon them, where<g ref="char:EOLhyphen"/>by it would not lye in the Power of King and Parliament to make any Settlement of the Succeſſion of the Kingdoms to prevent Civil Wars, and all future Calamities incident to the Incertainty of a Succeſſor.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. It is granted, That a Lineal Proteſtant Heir may be Declared without Summons of the Collateral, and that this doth ſufficiently Exclude the Collateral from the Succeſſion; but this Declarator doth neither Exclude the Collateral Heir from Summons or Hear<g ref="char:EOLhyphen"/>ing; for though the Parliament do not actually Summon, or give him notice; yet their Proceeding in Voting a Proteſtant Succeſſor is ſo Notorious and Publick, it gives ſufficient and general notice in Law to all Perſons pretending any Right and Liberty to ad<g ref="char:EOLhyphen"/>dreſs themſelves to make their Claim, and to be heard on the ſame, and time likewiſe before it can paſs the Negatives of the other Houſe and the King.</p>
+                  <p>
+                     <hi>Anſw.</hi> 2. This is Conform to the Judicial Proceed<g ref="char:EOLhyphen"/>ing in ordinary Courts of Juſtice, wherein is allowed <hi>Admiſſio Tertii propter intereſſe;</hi> The receit of a Third Perſon, if he will addreſs himſelf by Petition to have his Right heard.</p>
+                  <p>
+                     <hi>Anſw.</hi> 3. This is Conform to the Proceedings in Fines, wherein if the Party Intereſted will make his Claim, he ſhall be heard: But if he neglect, it is his own fault, and he is concluded by Non-claim, and this is held juſt in private Rights, much more ought it to be, and greater neceſſity there is allowable, <hi>Finem Li<g ref="char:EOLhyphen"/>tibus</hi>
+                     <pb n="6" facs="tcp:94869:5" rendition="simple:additions"/>
+                     <hi>imponere</hi> in Publick Rights of ſo great Conſe<g ref="char:EOLhyphen"/>quence as Succeſſions to the Crown; wherein it is ſuf<g ref="char:EOLhyphen"/>ficient, if Liberty is allowed to Pretenders to make their Claims, and to be heard, though there be not thoſe de<g ref="char:EOLhyphen"/>lays of Time and Formalities allowed, as in Diſcuſſion of private Rights, the ſame being inconſiſtent with the imminent Dangers of Kingdoms. But an Act of Excluſion of Right, neither allows notice in Deed or Law, nor what time may without danger be allow'd for Hearing, nor <hi>Admiſſio Tertii propter Intereſſe,</hi> nor Claim to be made; But takes away the Right of Parties intereſted <hi>ſine facto aut defectu,</hi> contrary to the common Rule, <hi>Ne<g ref="char:EOLhyphen"/>mo debet rem ſuam ſine facto aut Defectu ſuo amittere.</hi>
+                  </p>
+                  <p>Obj. 7. <hi>An Act of Excluſion may be of any Perſon from Succeſſion in Elective Kingdoms, without Summons or Hearing; But the Three Kingdoms are Elective Kingdoms, therefore an Act of Excluſion from Succeſſion may be with<g ref="char:EOLhyphen"/>out Summons or Hearing.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſwer.</hi> It is acknowledged, That the Kingdoms of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and of all other Na<g ref="char:EOLhyphen"/>tions, have been originally Elective by the People, till by the aſſent of the ſame People, the ſame were by Poſitive Laws made Hereditary: And as to the Poſi<g ref="char:EOLhyphen"/>tive Laws of <hi>Great Britain,</hi> not only the Common Law, but the Acts of Parliament are full and clear in it, That the Succeſſion of the Crown is Hereditary to the King's Eldeſt Sons, is particularly enacted in the Statute 25 <hi>E.</hi> 8. <hi>cap.</hi> 2. <hi>De Proditionibus.</hi> And by the Statutes of <hi>Kenneth</hi> the Third, and <hi>Malcolm Macken<g ref="char:EOLhyphen"/>neth</hi> the Second, as related by <hi>Buchanan, Lib.</hi> 6. <hi>Rer. Scot.</hi> p. 191. 196. And <hi>Anno</hi> 10 <hi>H.</hi> 7. a Right pro<g ref="char:EOLhyphen"/>fitable Act was made before Sir <hi>Edward Poynings,</hi> then Deputy or Provoſt in <hi>Ireland,</hi> whereby it is Enacted,</p>
+                  <pb n="7" facs="tcp:94869:5"/>
+                  <floatingText xml:lang="eng" type="act">
+                     <body>
+                        <p>
+                           <hi>That all Statutes late made within the Realm of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>concerning or belonging to the Common or Pub<g ref="char:EOLhyphen"/>lick Weal of the ſame, from henceforth be deemed Good and Effectual in the Law, and over that be ac<g ref="char:EOLhyphen"/>cepted, uſed, and executed within this Land of</hi> Ire<g ref="char:EOLhyphen"/>land, <hi>in all Points, at all times requiſite, according to the Tenor and Effect of the ſame.</hi>
+                        </p>
+                     </body>
+                  </floatingText>
+                  <p>And <hi>Coke</hi> ſaith, 4 <hi>Part</hi> 351. That, <hi>Hill.</hi> 10. <hi>Jac. Regis,</hi> It was reſolved by the two Chief Juſtices and Chief Barons, That this word <hi>(late)</hi> in the beginning of this Act, had the ſenſe of <hi>(before)</hi> ſo that the Act extended to <hi>Magna Charta,</hi> and to all Acts of Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> made before this Act of 10 <hi>H.</hi> 7. And by conſe<g ref="char:EOLhyphen"/>quence to the Act of 25 <hi>E.</hi> 3. <hi>cap.</hi> 2. So that by the Acts of Parliament both of <hi>England, Scotland,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> nothing can be more clear than the making the Succeſſion of all the Three Kingdoms Hereditary to the King's Eldeſt Son. So, 1 <hi>Eliz. cap.</hi> 3. A Recognition is made by Act of Parliament, that the Crown law<g ref="char:EOLhyphen"/>fully deſcended to Queen <hi>Elizabeth,</hi> as the next Lineal Heir to <hi>H.</hi> 8. And 1 <hi>Jac. cap.</hi> 1. The like Recognition is made by Act of Parliament of the Deſcent of the Crown to King <hi>James,</hi> as lawful Heir from <hi>H.</hi> 7. Un<g ref="char:EOLhyphen"/>leſs therefore theſe general Acts of Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland</hi> ſo antiently made, and the particular Acts of Recognition of two Proteſtant Parli<g ref="char:EOLhyphen"/>aments ſo lately made, all declaring the Succeſſion of the Crown to be Hereditary, be firſt repealed by new Acts, this Objection, That the Kingdoms are Elective, contrary to both Common and Statute Law, will ſig<g ref="char:EOLhyphen"/>nifie nothing.</p>
+               </div>
+               <div type="part">
+                  <pb n="8" facs="tcp:94869:6"/>
+                  <head>Reaſons for the Negative.</head>
+                  <p n="1">1. It would be very diſhonourable to the Proteſtant Religion, and the Supreme Court, which ought to give Example of Juſtice to Inferior Courts, to do any thing Injuſt: And though Parliaments in time of Popery <hi>De facto</hi> uſed to Exclude men of their Rights, and Con<g ref="char:EOLhyphen"/>demn them without Summons or Hearing, and the ſame is continually practiſed by the inhumane Cruel<g ref="char:EOLhyphen"/>ty of the <hi>Romiſh Inquiſition;</hi> yet, thanks be to God, it never was, nor we hope will be practiſed by any Pro<g ref="char:EOLhyphen"/>teſtant Parliament, neither was it in time of War it ſelf; but there were always Commiſſioners of Claims to hear private Rights; and if the Publick were neceſ<g ref="char:EOLhyphen"/>ſitated to make uſe of them, or to change private <hi>Pro<g ref="char:EOLhyphen"/>perty</hi> or Poſſeſſion to Publick benefit, they made accor<g ref="char:EOLhyphen"/>ding to Conſcience full compenſation in value to the Owners.</p>
+                  <p n="2">2. <hi>The Excluſion of Princes from any Right with<g ref="char:EOLhyphen"/>out Summons and Hearing, gives a Dangerous Prece<g ref="char:EOLhyphen"/>dent to Exclude all meaner Subjects from their Rights without Summons and Hearing; neither is it poſsible</hi> Magna Charta <hi>and the</hi> Petition of Right, <hi>if they fall as to one, can ſtand as to the other.</hi>
+                  </p>
+                  <p n="3">3. His Majeſty and the Major part of Proteſtants in his Honourable Parliament, will never aſſent to any thing Injuſt or Diſhonourable. It were vain therefore to attempt it.</p>
+                  <p n="4">4. It will be inconſiſtent with Humane Society, and deſtructive to Innocent and Guilty Papiſts and Prote<g ref="char:EOLhyphen"/>ſtants alike.</p>
+                  <p n="5">5. It will give a pretence to Foreign Popiſh Princes, and Inquiſitions to juſtifie their barbarous Proceedings againſt Proteſtants beyond Sea.</p>
+                  <p n="6">6. The <hi>Talio</hi> of a <hi>Legem quam Tuleras feras,</hi> may in
+<pb n="9" facs="tcp:94869:6"/> the Interval of a Parliament, be return'd by the Proſe<g ref="char:EOLhyphen"/>cution and Power of Papiſts in publick Offices, Mili<g ref="char:EOLhyphen"/>tary and Civil, on any Member of Parliament, as was on <hi>Tho. Cromwell</hi> Earl of <hi>Eſſex,</hi> who ſollicited and preſſed the Judges to give an Extrajudicial Opinion, that the Parliament might attaint a man of High Trea<g ref="char:EOLhyphen"/>ſon, without Summons and Hearing; which was ſoon after executed by <hi>H.</hi> 8. on the ſaid Earl of <hi>Eſſex</hi> him<g ref="char:EOLhyphen"/>ſelf, who ſolicited the ſaid Judges to deliver ſuch Opi<g ref="char:EOLhyphen"/>nion; which ſhews that <hi>Malum Conſilium eſt Conſultori peſſimum,</hi> on which <hi>Coke</hi> 4 <hi>Part, fol.</hi> 37. hath theſe words<hi>:</hi> I had it of Sir <hi>Thomas Gawdye</hi> Knight, a grave and Reverend Judge of the King's Bench, who lived at that time, King <hi>H.</hi> 8. commanded him to attend the Chief Juſtices; and to know, <hi>Whether a man that was forth-coming, might be attainted of High Treaſon by Parliament, and never called to anſwer?</hi> The Judges an<g ref="char:EOLhyphen"/>ſwer'd, That it was a <hi>DANGEROUS QUESTION,</hi> and that the High Court of Parliament ought to give Examples to Inferior Courts for proceeding according to Juſtice, and no Inferior Court could do the like; and they thought that the High Court of Parliament would never do it. But being by the Expreſs Com<g ref="char:EOLhyphen"/>mandment of the King, and by the ſaid Earl preſſed to give a direct Anſwer; They ſaid, That if he be At<g ref="char:EOLhyphen"/>tainted by Parliament, it could not come in queſtion afterwards, whether he were called, or not called to anſwer. And albeit their Opinion was according to Law, yet might they have made a better anſwer; for by the Statutes of <hi>Magna Charta, cap.</hi> 29. 5. E. 3. <hi>cap.</hi> 9. and 28 E. 3. <hi>cap.</hi> 5. <hi>No Man ought to be Condemned with<g ref="char:EOLhyphen"/>out anſwer,</hi> &amp;c. which they might have certified, but <hi>facta tenent multa, quae fieri prohibentur,</hi> the Act of At<g ref="char:EOLhyphen"/>tainder being paſſed by Parliament, did bind as they Reſolved. The Party againſt whom this was intended,
+<pb n="10" facs="tcp:94869:7"/> was never called in Queſtion, but the firſt Man after the ſaid Reſolution, that was ſo attainted and never called to anſwer, was the ſaid Earl of <hi>Eſſex;</hi> where<g ref="char:EOLhyphen"/>upon that Erroneous and Vulgar Opinion amongſt our Hiſtorians grew, That he died by the ſame Law which he himſelf had made. The Rehearſal of the ſaid At<g ref="char:EOLhyphen"/>tainder, can work no prejudice; for that I am confi<g ref="char:EOLhyphen"/>dently perſwaded, That ſuch Honourable and Worthy Members ſhall be from time to time of both Houſes of Parliament, as never any ſuch Attainder, where the Party is forth-coming, ſhall be had without hearing of him.</p>
+                  <p n="7">7. The Papiſt cannot be pleaſed better, nor any thing more for his advantage done, than by Act of Parliament to Exclude the Collateral Heir without Summons or Hearing; becauſe he knoweth the next Parliament for him will make the Act of Excluſion <hi>NULL and VOID;</hi> though they can alledge no other Reaſon for Error, than that he was not according to the <hi>LAW of GOD, NATIONS, NATURE, SCRIP<g ref="char:EOLhyphen"/>TURE, MAGNA CHARTA,</hi> and <hi>PETITION of RIGHT,</hi> Summon'd and Heard: as appears was done in a great Caſe concerning <hi>Thomas</hi> and <hi>Henry</hi> Earls of <hi>Lancaſter,</hi> which is thus recited; <hi>Coke</hi> 2 <hi>Part. fol.</hi> 48. <hi>Thomas</hi> Earl of <hi>Lancaſter</hi> was deſtroyed, That is, ad<g ref="char:EOLhyphen"/>judged to Die as a Traitor, and put to Death in 14 <hi>E.</hi> 2. and a Record thereof made: And <hi>Henry</hi> Earl of <hi>Lanca<g ref="char:EOLhyphen"/>ſter</hi> his Brother, and Heir was reſtored, for two Princi<g ref="char:EOLhyphen"/>pal Errors in the proceeding againſt the ſaid <hi>Thomas,</hi>
+                  </p>
+                  <p n="1">1. <hi>Quod non fuit araniatus, &amp; ad Reſponſionem poſitus tempere pacis, eo quod cancellaria, &amp; aliae curiae Regis fuer' apertae, in quibus Lex fiebat unicuique, prout fieri conſuevit.</hi>
+                  </p>
+                  <p n="2">2. <hi>Quod contra cartam de Libertatibus, cum dictus Thomas fuit unus parium, &amp; Magnatum Regni, in qua continetur</hi> (and reciteth this Chapter of <hi>Magna Charta,</hi> ſpecially
+<pb n="11" facs="tcp:94869:7"/>
+                     <hi>quod Dominus Rex non ſuper eum ibit, nec mittet, niſi per Legale Judicium par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>um ſuorum, tamen per Recordum prae<g ref="char:EOLhyphen"/>dictum, Tempore Pacis abſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> arainamento Reſponſione, ſeu Legali Judicio parium ſuorum, contra Legem, &amp; contra te<g ref="char:EOLhyphen"/>norem Magnae Chartae.)</hi> Here appears that an Act of Parliament made purpoſely to exclude <hi>Thomas</hi> Earl of <hi>Lancaſter,</hi> and his Brother <hi>Henry</hi> Earl of <hi>Lancaſter</hi> from the Crown, is made Void and Null by a Parliament called after by <hi>Henry,</hi> who ſucceeded, and was after King <hi>Henry</hi> the Fourth, on aſſigning no other Errors but theſe Two, <hi>Viz.</hi> (1) That he was not Arraigned nor brought to anſwer, though it was in a time of Peace, when the Chancery, and other the King's Courts were open, in which Juſtice was done to every one, as hath been accuſtomed to be done. (2.) Becauſe againſt the Charter of Liberties, when the ſaid <hi>Thomas</hi> was one of the Peers and great Men of the Kingdom (and recited the Chapter of <hi>Magna Charta)</hi> eſpecially, That our Lord the King ſhall not paſs upon him, nor condemn him, unleſs by the Lawful Tryal of his Peers; yet by the Record aforeſaid in a time of Peace, without Arraignment, Anſwer, or Lawful Tryal of his Peers a<g ref="char:EOLhyphen"/>gainſt the Law, and againſt the Tenor of <hi>Magna Char<g ref="char:EOLhyphen"/>ta,</hi> &amp;c. he was Condemned. And ſuch Excluſion with<g ref="char:EOLhyphen"/>out Summons and Hearing, will advance the Reputa<g ref="char:EOLhyphen"/>tion of the Title of the Collateral Heir, and diſparage and draw ſuſpition of weakneſs on the Title of the Li<g ref="char:EOLhyphen"/>neal Heir; becauſe men uſe not to deny Hearing to any but to thoſe whoſe right is better than their own, and whom they are not able to anſwer, but by ſtopping their Mouths, and not ſuffering them to prove or diſpute againſt their own falſe pretences. So did <hi>Edward</hi> the Fourth deal with Sir <hi>John Mortimer,</hi> whom he could not deny to be true next &amp; Lawful Heir to the Crown, as <hi>Coke</hi> relateth <hi>4th Part, fol.</hi> 38. And ſaith as evil was the proceeding againſt Sir <hi>John Mortimer,</hi> third Son of
+<pb n="12" facs="tcp:94869:8"/>
+                     <hi>Edmond</hi> the ſecond Earl of <hi>Marſh</hi> (deſcended from <hi>Lio<g ref="char:EOLhyphen"/>nel</hi> Duke of <hi>Clarence)</hi> who was Indicted of High Trea<g ref="char:EOLhyphen"/>ſon for certain words; in effect, That <hi>Edmond</hi> Earl of <hi>March</hi> ſhould be King by Right of Inheritance; and that he himſelf was next Rightful Heir to the Crown after the ſaid Earl of <hi>March;</hi> wherefore if the ſaid Earl ſhould not take it upon him, he would: And that he would go into <hi>Wales</hi> and raiſe an Army of 20000 Men, <hi>&amp;c.</hi> which Indictment (without any Arraignment or Pleading) being meerly feigned to blemiſh the Title of <hi>Mortimers,</hi> and withal being inſufficient in Law, as by the ſame appeareth, was confirmed by Authority of Parliament: And the ſaid Sir <hi>John</hi> being brought into the Parlia<g ref="char:EOLhyphen"/>ment, without Arraignment or putting to Anſwer, Judgment in Parliament was given againſt him upon the ſaid Indictment; <hi>That he ſhould be carried to the Tower of</hi> London, <hi>and Drawn through the City to</hi> Tyborn, <hi>and there Hanged, Drawn, and Quarter'd, his Head to be ſet on</hi> London <hi>Bridge, and his four Quarters on the four Gates of London;</hi> as by Record of Parliament appeareth, <hi>Rot. Par.</hi> 2. <hi>H.</hi> 6. <hi>Nu.</hi> 18.</p>
+                  <p n="8">8. Admit the Law ſhould be proved doubtful in the point, whether an Act of Excluſion may be lawful or not, yet the Rule is undoubted, <hi>quod dubites ne feceris,</hi> when the ſame end may be better obtained in a way not at all doubtful, it would ſeem therefore very conten<g ref="char:EOLhyphen"/>tious to caſt all on a Querie in Law, to ſpare the labour of ſo ſmall a Punctilio as Summons, when the ſame may be done with leſs labour, and the proceedings made clear and indiſputable in Law by giving it.</p>
+                  <p n="9">9. Admit an Act of Excluſion might poſſibly be pro<g ref="char:EOLhyphen"/>ved Lawful in ſome caſe of Neceſſity without Sum<g ref="char:EOLhyphen"/>mons; yet it is a Rule <hi>Non recur <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>itur ad remedium Ex<g ref="char:EOLhyphen"/>traordinarium niſi deficit ordinarium,</hi> it is already ſhewn, Here is no ſuch caſe of Neceſſity; The time is of Peace, and not of War; the place is in the High Court of Par<g ref="char:EOLhyphen"/>liament, and not in the Camp.</p>
+                  <pb n="13" facs="tcp:94869:8"/>
+                  <p n="10">10. It were a very dangerous thing to Expoſe ſo great a Treaſure as <hi>SALUS POPULI</hi> to ſuch Diſputes as nothing can reſolve but the Sword, when God hath vouchſafed ſo great a Mercy as a Proteſtant King, and Proteſtant Parliament, giving ſo great Hopes of ſatisfy<g ref="char:EOLhyphen"/>ing all deſires, juſt honourable and neceſſary to publick Safety in Peace.</p>
+               </div>
+            </div>
+            <div n="2" type="question">
+               <head>QUEST. 2.</head>
+               <p>
+                  <hi>Whether an Act of Oblivion ought at preſent to be granted both to the Lineal and Collateral Heir of the Crown and their Adherents?</hi> Aff.</p>
+               <div type="part">
+                  <head>Objections againſt an Act of Oblivion.</head>
+                  <p>Obj. 1. If an Act of Oblivion ſhould paſs, then will all the Priſoners in the <hi>Tower</hi> and other Priſons charged with Treaſon, be again let looſe, All Jeſuits, Seminaries, corrupted Judges, Spiritual and Tem<g ref="char:EOLhyphen"/>poral, Donatees, Penſioners, Seiſers or Receivers of the Publick Trea<g ref="char:EOLhyphen"/>ſure, Magazines and Arms would be cleared from all account and re<g ref="char:EOLhyphen"/>ſtitution, and Papiſts be in better Condition than Proteſtants.</p>
+                  <p>Anſw. <hi>No Act of Oblivion uſeth to be without Exceptions, which the King and Parliament may inſert, as it ſhall pleaſe to direct them.</hi>
+                  </p>
+                  <p>Obj. 2. <hi>Papiſts though diſpoſſeſſed of Publick Offices, Forts and Fleets, yet may retain their old, and provide new Arms in ſecret for the Field, which is more dangerous; for the Forts will again open their Gates to him who Conquers in the Field, and the Fleets return again to his Poſſeſſion who takes the Sea Towns; there can be no Security there<g ref="char:EOLhyphen"/>fore againſt Papiſts, but Baniſhment, which cannot conſiſt with an Act of Oblivion.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſw.</hi> 1. Baniſhment is not neceſſary of Lay-Papiſts, ſeeing the Acts of Parliament have already baniſh'd their Prieſts and Jeſu<g ref="char:EOLhyphen"/>its, and made it High Treaſon for them to come into or remain in <hi>England</hi> or <hi>Ireland;</hi> without whoſe Diabolical Temptations, there appears no reaſon why the Lay-Papiſt ſhould not deſire the Peace &amp; Safety of their Native Country, &amp; their own Eſtates, and to injoy their Conſcience, Liberty, and Property as free from Violation as the Proteſtants do themſelves, rather than hazard all they have on the Event of Rebellion or Invaſion.</p>
+                  <p>
+                     <pb n="14" facs="tcp:94869:9" rendition="simple:additions"/>
+                     <hi>Anſw.</hi> 2. Baniſhment is either impoſed as a Puniſhment or a Policy; if as a Puniſhment, it is unjuſt and contrary to <hi>Magna Charta</hi> to Baniſh before Summons and Hearing; for that will pu<g ref="char:EOLhyphen"/>niſh the Innocent and Guilty alike. If the Baniſhment is for Po<g ref="char:EOLhyphen"/>licy, this ſeems moſt unpolitick; For firſt, this inforces all Potent Papiſts to fly to a Foreign Enemy, who is ready to receive and form them and their followers into an Army, and to joyn his own Forces with them againſt their own Country. 2. This gives them a good Cauſe or pretence to fight againſt their Country with Foreigners in a <hi>ſe Defendendo,</hi> and for Recovery of their own, and to aſſociate themſelves on the ſame or like Grounds as Pro<g ref="char:EOLhyphen"/>teſtants have aſſociated. 3. It is that which the ſubtle Jeſuit de<g ref="char:EOLhyphen"/>ſires to draw the unpolitick Proteſtant to, that ſeeing he is him<g ref="char:EOLhyphen"/>ſelf Baniſhed by the Law, that an Army of <hi>Engliſh</hi> Papiſts may be Baniſhed with him, that ſo he may turn head with them on thoſe who have made them deſperate by the Injuſtice of making no diſtinction between the Innocent and Guilty, and to take the Reſolution of <hi>
+                        <g ref="char:V">Ʋ</g>na ſalus victis nullam Sperare ſalutem;</hi> Touching which, Hiſtories are full of Examples of Kingdoms deſtroyed by the Baniſhment of but one ſingle Perſon, and much more by draw<g ref="char:EOLhyphen"/>ing many into a wrongful Exile. Very much more might be an<g ref="char:EOLhyphen"/>ſwer'd of the Danger of ſo deceitful an Expedient againſt Pa<g ref="char:EOLhyphen"/>piſts; which for Brevity is here omitted.</p>
+               </div>
+               <div type="part">
+                  <head>Reaſons for an Act of Oblivion.</head>
+                  <p n="1">1. It being proved before, That no Act of Excluſion ought to be with<g ref="char:EOLhyphen"/>out Summons and Hearing, it neceſſarily follows, that whoſoever is Summon'd before any Judge to be heard, he ought to have Protection <hi>eundo morando &amp; redeundo,</hi> and Summons <hi>ad Forum non tutum</hi> may juſtly be ex<g ref="char:EOLhyphen"/>cepted againſt, and a Protection only <hi>eundo morando &amp; redeundo,</hi> is inſuf<g ref="char:EOLhyphen"/>ficient to make <hi>Forum Tutum</hi> without an Act of Oblivion.</p>
+                  <p n="2">2. It cannot be hoped, that the Papiſts being in poſſeſſion by their Agents of ſo much of the Arms and Forces by Land and Sea (and the Proteſtant diſarmed) will deliver up their Arms, and hazard their Lives on a Tryal of Law, without an Act of Oblivion.</p>
+                  <p n="3">3. <hi>Difficile eſt in tot humanis Erroribus ſola innocentia vivere.</hi> An Act of Obli<g ref="char:EOLhyphen"/>vion may be as ſafe and neceſſary for the Proteſtant as the Papiſt, unleſs they both intend to play off their Heads one to another <hi>alternis vicibus,</hi> as they did in the late Civil Wars, by the running of the Dice to make ſport for Foreigners.</p>
+                  <p n="4">4. Hiſtories are full, how all Inteſtine Diſcords, Seditions, Treaſons, Rebellions, Civil Wars, and in particular the late unhappy Civil Wars in the Three Kingdoms have been accorded, and their Continuance prevented by Acts of Oblivion, and the happy Reſtauration of His pre<g ref="char:EOLhyphen"/>ſent Majeſty, and Peace in Three Kingdoms, made and Eſtabliſhed by the chief means next under God of an Act of Oblivion.</p>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <p>ERRATA. <hi>Pag.</hi> 13. <hi>line</hi> 21. <hi>read</hi> ſhall pleaſe God to direct them.</p>
+            <pb facs="tcp:94869:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
